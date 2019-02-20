@@ -67,8 +67,6 @@ opensource accounting system
   - http://1c-wiseadvice.ru/
 
 
-## Функции
-/services.md
+## [Функции](services.md)
 
-## заметки
-/notes.md
+## [Заметки](notes.md)
